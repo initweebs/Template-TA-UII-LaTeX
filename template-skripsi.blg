@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: template-skripsi.aux
+The style file: apalike.bst
+A level-1 auxiliary file: bab1.aux
+A level-1 auxiliary file: bab2.aux
+A level-1 auxiliary file: bab3.aux
+A level-1 auxiliary file: bab4.aux
+A level-1 auxiliary file: bab5.aux
+Database file #1: library.bib
+Warning--I didn't find a database entry for "katz2013world"
+Warning--empty publisher in Ding2018
+Warning--empty publisher in Olausson2016
+You've used 13 entries,
+            1935 wiz_defined-function locations,
+            578 strings with 6415 characters,
+and the built_in function-call counts, 5617 in all, are:
+= -- 539
+> -- 277
+< -- 5
++ -- 98
+- -- 96
+* -- 531
+:= -- 988
+add.period$ -- 37
+call.type$ -- 13
+change.case$ -- 111
+chr.to.int$ -- 13
+cite$ -- 15
+duplicate$ -- 182
+empty$ -- 367
+format.name$ -- 115
+if$ -- 1059
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 15
+newline$ -- 66
+num.names$ -- 39
+pop$ -- 94
+preamble$ -- 1
+purify$ -- 113
+quote$ -- 0
+skip$ -- 134
+stack$ -- 0
+substring$ -- 406
+swap$ -- 13
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 74
+warning$ -- 2
+while$ -- 48
+width$ -- 0
+write$ -- 165
+(There were 3 warnings)
